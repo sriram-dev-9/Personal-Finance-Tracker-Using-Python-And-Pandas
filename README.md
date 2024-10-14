@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [Your Name](https://www.linkedin.com/in/your-linkedin-profile)
+- [Sriram Nagandla](https://www.linkedin.com/in/sriram-nagandla/)
 ```
 
 This is the final version of your `README.md`. You can replace "yourusername" and "your-linkedin-profile" with your actual GitHub and LinkedIn information. Let me know if you need further changes!
